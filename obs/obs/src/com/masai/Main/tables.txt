@@ -43,8 +43,6 @@ cid int,
 foreign key(cid) references InfoCustomer(cid) on delete cascade
 );
 
-alter table Account auto_increment=2023001;       //used to start account number with given value
-****************************************************************
 
 
 4. Transaction table will take care all transactions
