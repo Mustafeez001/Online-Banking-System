@@ -1,8 +1,5 @@
 # meaty-flock-6305
-![Table SQL]
-
-i
-
+Table SQL
 
 <img src = "https://user-images.githubusercontent.com/105917441/208372873-7207c9e3-cfdc-416b-a1c0-b6997ff3465a.png"/>
  
